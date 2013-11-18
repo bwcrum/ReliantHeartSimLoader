@@ -1,0 +1,2 @@
+Main-Class: com.numerex.micromed.scdl.views.MicroMedFrame
+SCDL-Version: 1.0.0
